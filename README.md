@@ -38,8 +38,8 @@ depend = deepin-wine-uninstaller
   安装gnome-settings-daemon，然后运行/usr/lib/gsd-xsettings：
 
   ```sh
-  # pacman -S gnome-settings-daemon
-  # /usr/lib/gsd-xsettings
+  % pacman -S gnome-settings-daemon
+  % /usr/lib/gsd-xsettings
   ```
 
 
