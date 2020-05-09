@@ -2,6 +2,23 @@
 Archlinux下企业微信包
 ===================
 
+## Info
+
+```
+pkgname = deepin.com.weixin.work
+pkgver = 2.8.10.2010deepin0-1
+pkgdesc = Tencent WeChat Work Client on Deepin Wine.
+builddate = 1589015266
+arch = x86_64
+size = 83177200
+depend = deepin-wine>=2.18
+depend = deepin-wine32
+depend = deepin-wine32-preloader
+depend = deepin-wine-helper>=1.2deepin2
+depend = deepin-wine-uninstaller
+```
+
+
 ## Usage
 
 **1、克隆一下仓库到本地，选择`pkg`下合适的安装包安装（使用`uname -m`检查一下你的cpu架构）**
