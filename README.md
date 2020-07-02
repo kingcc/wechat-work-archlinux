@@ -23,7 +23,9 @@ depend = deepin-wine-uninstaller
 
 **1、克隆一下仓库到本地，选择`pkg`下合适的安装包安装（使用`uname -m`检查一下你的cpu架构）**
 
+  ```sh
   # pacman -U [package]
+  ```
 
 **2、非Gnome用户？**
 
